@@ -1,0 +1,2 @@
+Silahkan Login menggunakan user yang sudah tersedia di database yaitu, Username: 
+Username: admin	 		Password: kliwonan (Level: Administrator)
